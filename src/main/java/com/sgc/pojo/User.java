@@ -1,7 +1,7 @@
 package com.sgc.pojo;
 
 public class User {
-    private String name;  // 名字
+    private String name; // 姓名
     private Integer age;
 
 
